@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string name="action_settings">Pengaturan</string>
+
+    <string name="accessibility_play">Main</string>
+    <string name="accessibility_pause">Jeda</string>
+    <string name="accessibility_next">Berikutnya</string>
+    <string name="accessibility_prev">Sebelumnya</string>
+    <string name="accessibility_shuffle">Acak</string>
+    <string name="accessibility_shuffle_all">Acak semua</string>
+    <string name="accessibility_repeat">Ulangi</string>
+    <string name="accessibility_repeat_all">Ulangi semua</string>
+    <string name="accessibility_repeat_one">Ulangi satu kali</string>
+    <string name="accessibility_queue">Buka antrian</string>
+
+    <string name="menu_sort_by">Urutkan berdasarkan</string>
+    <string name="sort_order_entry_az">A-Z</string>
+    <string name="sort_order_entry_za">Z-A</string>
+    <string name="sort_order_entry_artist">Artis</string>
+    <string name="sort_order_entry_album">Album</string>
+    <string name="sort_order_entry_year">Tahun</string>
+    <string name="sort_order_entry_track_number">Nomor Lagu</string>
+    <string name="sort_order_entry_duration">Durasi</string>
+    <string name="sort_order_entry_number_of_songs">Jumlah Lagu</string>
+    <string name="sort_order_entry_number_of_albums">Jumlah Album</string>
+
+    <string name="error_playing_track">Kesalahan Saat Memutar lagu</string>
+
+    <string name="playlist_last_added">Terakhir Ditambahkan</string>
+    <string name="playlist_recently_played">Baru-baru ini Dimainkan</string>
+    <string name="playlist_top_tracks">Lagu Teratas Saya</string>
+
+    <string name="menu_show_as">Lihat Sebagai</string>
+    <string name="menu_show_as_entry_list">Daftar</string>
+    <string name="menu_show_as_entry_grid">Grid</string>
+
+    <string name="light">Terang</string>
+    <string name="dark">Gelap</string>
+    <string name="black">Hitam</string>
+
+    <string name="last_opened">Terakhir Dibuka</string>
+
+    <string name="songs">Lagu</string>
+    <string name="albums">Album</string>
+    <string name="artists">Artis</string>
+    <string name="library">Pustaka</string>
+    <string name="playlists">Daftar Putar</string>
+    <string name="playing_queue">Antrian Main</string>
+    <string name="now_playing">Sedang Dimainkan</string>
+    <string name="settings">Pengaturan</string>
+    <string name="about">Tentang</string>
+    <string name="search">Cari</string>
+    <string name="action_shuffle_all">Acak semua</string>
+    <string name="action_equalizer">Ekualiser</string>
+    <string name="search_library">Cari Pustaka</string>
+    <string name="count_song"><xliff:g id="count">%d</xliff:g> song</string>
+    <string name="count_songs"><xliff:g id="count">%d</xliff:g> songs</string>
+    <string name="count_album"><xliff:g id="count">%d</xliff:g> album</string>
+    <string name="count_albums"><xliff:g id="count">%d</xliff:g> albums</string>
+    <string name="count_artist"><xliff:g id="count">%d</xliff:g> artist</string>
+    <string name="count_artists"><xliff:g id="count">%d</xliff:g> artists</string>
+    <string name="choose_start_page">Pilih halaman awal yang akan ditampilkan pada saat peluncuran.</string>
+    <string name="start_page">Halaman awal</string>
+    <string name="personalisation">Personalisasi</string>
+    <string name="other">Lainnya</string>
+    <string name="summary_pause_detach">Berhenti memutar ketika headphone dilepas</string>
+    <string name="pause_detach">Jeda saat dilepas</string>
+    <string name="currently_selected">Yang Sedang Dipilih</string>
+
+    <string name="primary_color">Warna Utama</string>
+    <string name="primary_color_summary">Mengubah warna tema utama</string>
+
+    <string name="colored_status_bar">Bilah Status Berwarna</string>
+    <string name="colored_status_bar_summary">Mewarnai bilah status.</string>
+
+    <string name="nothing_found">Tidak menemukan apa pun</string>
+    <string name="folders">Mencari Berkas</string>
+    <string name="select_storage">Pilih penyimpanan</string>
+    <string name="cancel">Batal</string>
+    <string name="menu_show_lyrics">Tampilkan lirik</string>
+    <string name="menu_show_as_entry_default">Bawaan</string>
+    <string name="no_lyrics">Tidak menemukan lirik.</string>
+    <string name="now_playing_no_track_selected">Tidak ada lagu yang dipilih.</string>
+    <string name="lyrics_loading">Memuat...</string>
+    <string name="remove_from_playlist">Hapus dari daftar putar</string>
+    <string name="personal_photo">Foto menarik</string>
+    <string name="personal_photo_summary">Pilih foto yang Anda ingin tampilkan di layar Utama</string>
+    <string name="select_a_photo">Pilih Foto dari</string>
+    <string name="sponsorship">Iklan Sponsor</string>
+    <string name="check_permission">Adore Musique perlu untuk membaca penyimpanan eksternal untuk menampilkan lagu di perangkat ini.</string>
+    <string name="player_style_rewarded">Corak ini akan dibuka secara permanen setelah Anda menonton video dengan imbalan cepat.</string>
+    <string name="about_app">Adore Musique pemutar musik yang indah dibuat menggunakan Desain dengan corak pemutar yang menarik, penyesuaian, latar belakang animasi, dan pengendali musik. Membiarkan Anda menyimpan gambar yang menarik, sehingga ketika Anda merindukan seseorang ketika mendengarkan lagu, melihat serta merasakannya! Hal ini memiliki fitur menarik seperti foto artis tersinkronkan secara online, melanjutkan secara otomatis setelah telepon, Isyarat dan masih banyak lagi.</string>
+    <string name="rate_app">Nilai Aplikasi ini</string>
+    <string name="rewarded_failed">Video berhadiah tidak dimuat, mohon periksa koneksi internet Anda dan/atau coba kembali.</string>
+    <string name="fullscreen_summary">Mengaktifkan layar penuh dalam waktu nyata</string>
+    <string name="fullscreen">Layar penuh</string>
+    <string name="about_contact">Hubungi Pengembang:</string>
+    <string name="about_suggestions">Jika Anda menemukan kesalahan/bug atau hendak meninggalkan saran berharga Anda untuk peningkatan aplikasi ini, harap menghubungi melalui Surel atau Facebook dengan mengetuk ikon di bawah.</string>
+    <string name="message_everyone_summary">Berisi kumpulan pesan yang dimuat dengan fitur unik</string>
+    <string name="more_apps">Lebih banyak Aplikasi oleh Pengembang.</string>
+    <string name="translate_title">Bantu saya dengan terjemahan:</string>
+    <string name="translate_summary">Bantu saya dalam menerjemahkan aplikasi ke bahasa lokal Anda. Jika Anda ingin menerjemahkan aplikasi ini, hubungi saya melalui Facebook. Saya akan mengkreditkan Nama Anda yang Menarik dan ID dalam seksi Penerjemahan aplikasi ini.</string>
+    <string name="share_app">Bagikan Aplikasi ini</string>
+    <string name="rate_this_app">Beri nilai Aplikasi ini</string>
+    <string name="share_app_summary">Adore Musique, sebuah Pemutar Musik yang cantik dengan corak pemain yang menarik, penyesuaian, animasi latar belakang, dan kontrol musik. Unduh sekarang dari Play store https://play.google.com/store/apps/details?id=com.anantheswar.adoremusique atau unduh secara langsung dari https://goo.gl/eoVRdz</string>
+    <string name="no_email_app">Tidak ada surel klien yang terpasang</string>
+    <string name="send_email">Kirim Surel melalui</string>
+    <string name="rate_this_app_message">Jika Anda menyukai aplikasi ini!, Beri nilai bintang 5 di Play Store untuk mendukung pengembang. Hal ini akan membantu saya untuk membuat lebih banyak aplikasi.</string>
+    <string name="okay">OK</string>
+    <string name="try_this_app">Coba aplikasi ini!</string>
+    <string name="share_this_app_link">Bagikan tautan aplikasi ini melalui</string>
+    <string name="select_image">pilih sebuah Gambar</string>
+    <string name="image_selected">Gambar dipilih</string>
+    <string name="please_wait">Mohon menunggu untuk memuat</string>
+    <string name="now_playing_style">Corak Pemutar</string>
+    <string name="summary_xposed_trackselector">Requires Xposed and XMediaNotificationTrackSelector Xposed module to be installed. This will provide access to playing queue from the notification bar itself.</string>
+    <string name="xposed_trackselector">Memainkan dukungan antrian di notifikasi</string>
+    <string name="albumart_lockscreen">Album Seni</string>
+    <string name="albumart_lockscreen_summary">Tampilkan album seni di layar kunci.</string>
+    <string name="load_artist_album_image">Memuat gambar artis secara online</string>
+    <string name="load_artist_album_image_summary">Secara otomatis memuat gambar artis ketika Anda tersambung ke internet.</string>
+    <string name="widget_standard">Widget gelap</string>
+    <string name="tap_to_start">Ketuk untuk memulai Adore Musique</string>
+    <string name="widget_white">Widget cerah</string>
+    <string name="share">Bagikan</string>
+    <string name="delete_from_device">Hapus dari perangkat</string>
+    <string name="remove_from_queue">Singkirkan dari antrian</string>
+    <string name="privacy_policy">Kebijakan Privasi</string>
+    <string name="version">versi 2.2</string>
+    <string name="unlock">Dibuka secara gratis</string>
+    <string name="watch_video">Tonton Video</string>
+    <string name="hide_playlist">Sembunyikan daftar putar otomatis</string>
+    <string name="show_playlist">Tampilkan daftar putar otomatis</string>
+    <string name="auto_playlist">Otomatis\nDaftar Putar</string>
+    <string name="first_style">Corak pertama dibuka</string>
+    <string name="second_style">Corak kedua dibuka</string>
+    <string name="fifth_style">Corak kelima dibuka</string>
+    <string name="sixth_style">Corak keenam dibuka</string>
+    <string name="dark_theme">Tema gelap</string>
+    <string name="dark_theme_summary">Terapkan tema gelap di waktu nyata.</string>
+    <string name="accent_color">Warna aksen</string>
+    <string name="accent_color_summary">Pilih warna aksen tema.</string>
+    <string name="gestures">Isyarat</string>
+    <string name="switching_tracks_by_gestures">Ganti lagu menggunakan isyarat</string>
+    <string name="now_playing_selector">Pilih Corak Pemutar dari 6 corak mengagumkan.</string>
+    <string name="play">Mainkan</string>
+    <string name="add_to_playlist">Tambahkan ke daftar putar</string>
+    <string name="go_to_album">Menuju ke album</string>
+    <string name="go_to_artist">Menuju ke artis</string>
+    <string name="add_to_queue">Tambahkan ke antrian</string>
+    <string name="play_next">Mainkan berikutnya</string>
+    <string name="new_playlist">Daftar putar baru</string>
+    <string name="show_ad">"Tampilkan Iklan "</string>
+    <string name="number_song_add_queue"><xliff:g example="1" id="number">%d</xliff:g> lagu ditambahkan ke antrean.</string>
+    <string name="number_songs_add_queue"><xliff:g example="1" id="number">%d</xliff:g> lagu ditambahkan ke antrean.</string>
+    <string name="number_song_add_playlist"><xliff:g example="1" id="number">%d</xliff:g> lagu ditambahkan ke daftar putar.</string>
+    <string name="number_songs_add_playlist"><xliff:g example="1" id="number">%d</xliff:g> lagu ditambahkan ke daftar putar.</string>
+    <string name="player_style_ad">Gaya ini akan dibuka secara permanen setelah Anda berpartisipasi dalam Iklan.</string>
+    <string name="accessibility_browse">"Jelajahi musik "</string>
+    <string name="translations">Terjemahan</string>
+    <string name="translated_by">Diterjemahkan oleh</string>
+</resources>

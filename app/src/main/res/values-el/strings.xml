@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="nothing_found">Τίποτα δεν βρέθηκε</string>
+    <string name="folders">Αναζήτηση Φακέλλων</string>
+    <string name="select_storage">Επιλέξτε αποθήκευση</string>
+
+    <string name="cancel">Ακύρωση</string>
+
+    <string name="menu_show_lyrics">Παίξετε τα τραγούδια</string>
+    <string name="menu_show_as_entry_default">Προεπιλογή</string>
+    <string name="no_lyrics">Δεν βρέθηκαν τραγούδια</string>
+    <string name="now_playing_no_track_selected">Δεν έγινε αναζήτηση</string>
+    <string name="lyrics_loading">Φορτώνει..</string>
+    <string name="remove_from_playlist">Αφαιρέστε από την λίστα τραγουδιών</string>
+    <string name="personal_photo">Πολυαγαπημένη φωτογραφία</string>
+    <string name="personal_photo_summary">Επιλέξτε μια φωτογραφία που θέλετε να προβάλλετε στην Κύρια οθόνη</string>
+    <string name="select_a_photo">Επιλέξετε μια Φωτογραφία από</string>
+    <string name="sponsorship">Διαφημίσεις με Σπόνσορα</string>
+    <string name="check_permission">Για το Adore Musique θα χρειαστεί να διαβάσετε την εξωτερική αποθήκευση για να παίξετε τραγούδια στην συσκευή.</string>
+    <string name="player_style_rewarded">Αυτή η παράμετρος θα ξεκλειδωθεί μόνιμα αφού παρακολουθήσετε ένα γρήγορο Βίντεο Αμοιβών</string>
+    <string name="about_app">Το Adore Musique είναι ένα σύστημα που παίζει μουσική και λειτουργεί με την χρήση Σχεδίου Υλικού με ελκυστικά τραγούδια, προσωποποιήσεις, εικόνες υποστήριξης, και ελέγχους μουσικής. Παρέχει μια Θαυμάσια εικόνα, γι αυτό αν σας λείψει κάποιος ενώ ακούτε ένα μουσικό κομμάτι, δέστε και αισθανθείτε!! Έχει πολύ ωραία χαρακτηριστικά όπως καλλιτεχνικές φωτογραφίες συγχρονισμού online, Συνεχίζει να παίζει μετά την κλήση, χειρονομίες και άλλα.</string>
+    <string name="rate_app">Βαθμολογήστε αυτό το Πρόγραμμα</string>
+    <string name="rewarded_failed">Το βίντεο αμοιβής δεν έχει φορτίσει, ελέγξετε την σύνδεση σας στο διαδίκτυο και/ή προσπαθήστε πάλι.</string>
+    <string name="fullscreen_summary">Ενεργοποιήστε/απενεργοποιήστε την πλήρη οθόνη σε πραγματικό χρόνο</string>
+    <string name="fullscreen">Πλήρης Οθόνη</string>
+    <string name="about_contact">Επικοινωνήστε με τον Δημιουργό</string>
+    <string name="about_suggestions">Αν εντοπίστε σφάλμα/λάθος ή αφήστε τις πολύτιμες προτάσεις για βελτίωση αυτού του προγράμματος, επικοινωνήστε μέσω Email ή Facebook πατώντας στην εικόνα κάτω.</string>
+    <string name="message_everyone_summary">Περιέχει συλλογή μηνυμάτων που φορτώθηκαν με ένα μοναδικό χαρακτηριστικό</string>
+    <string name="more_apps">Περισσότερα Προγράμματα από τον Δημιουργό</string>
+    <string name="translate_title">Βοηθήστε στη μετάφραση:</string>
+    <string name="translate_summary">Βοηθήστε με να μεταφράσω αυτό το πρόγραμμα στην μητρική σας γλώσσα. Αν θέλετε να μεταφράσετε αυτό το πρόγραμμα, επικοινωνήστε μαζί μου μέσω Facebook, θα εγγράψω το Όνομα σας και το ID σας, στο αντίστοιχο τμήμα Μετάφρασης εδώ.</string>
+    <string name="share_app">Μοιραστείτε αυτό το Πρόγραμμα</string>
+    <string name="rate_this_app">Βαθμολογήστε το Πρόγραμμα</string>
+    <string name="share_app_summary">Adore Musique, ένα ωραίο Πρόγραμμα παραγωγής ψηφιακής μουσικής με ελκυστικά στυλ παραγωγής μουσικής, προσωποποιήσεις, εικόνες που κινούνται και ελέγχους μουσικής. Κατεβάστε το τώρα από το  Play store https://play.google.com/store/apps/details?id=com.anantheswar.adoremusique or download directly from https://goo.gl/eoVRdz	share_app_summary</string>
+    <string name="no_email_app">Δεν υπάρχουν ταχυδρομικές διευθύνσεις πελατών εγκαταστημένες στο πρόγραμμα</string>
+    <string name="send_email">Αποστείλετε Email μέσω</string>
+    <string name="rate_this_app_message">Αν σας αρέσει αυτό το Πρόγραμμα, δώστε 5 Αστέρια ως βαθμολογία στο Play Store για να υποστηρίξετε τον δημιουργό. Αυτό θα με βοηθήσει να δημιουργήσω περισσότερα προγράμματα</string>
+    <string name="okay">ΟΚΑΥ</string>
+    <string name="try_this_app">Δοκιμάστε αυτό το πρόγραμμα</string>
+    <string name="share_this_app_link">Στείλετε το πρόγραμμα μέσω</string>
+    <string name="select_image">Επιλέξετε εικόνα</string>
+    <string name="image_selected">Επιλεγμένη εικόνα</string>
+    <string name="please_wait">Παρακαλώ περιμένετε να φορτώσει</string>
+    <string name="now_playing_style">Player Styles</string>
+    <string name="summary_xposed_trackselector">Χρειάζεται συσκευή Xposed και XMediaNotificationTrack Selector Xposed για να εγκατασταθεί. Αυτό θα παράσχει πρόσβαση στα τραγούδια από την ίδια την μπάρα ειδοποίησης.</string>
+    <string name="xposed_trackselector">Ενημέρωση για την σειρά τραγουδιών</string>
+
+    <string name="albumart_lockscreen">Άλμπουμ Τέχνης</string>
+    <string name="albumart_lockscreen_summary">Προβολή τραγουδιών στην οθόνη</string>
+
+    <string name="load_artist_album_image">Προβάλετε καλλιτεχνικές εικόνες onlie</string>
+    <string name="load_artist_album_image_summary">Φορτώνει αυτόματα καλλιτεχνικές εικόνες όταν είστε συνδεδεμένοι στο διαδίκτυο.</string>
+
+    <string name="widget_standard">Σκοτεινός μάγος</string>
+    <string name="tap_to_start">Πατήστε για να αρχίσει το Adore Musique</string>
+    <string name="widget_white">Ελαφρύς μάγος</string>
+
+    <string name="share">Μοιραστείτε</string>
+    <string name="delete_from_device">Διαγράψετε από την συσκευή</string>
+    <string name="remove_from_queue">Αφαιρέστε από τη σειρά</string>
+    <string name="privacy_policy">Προσωπικά δεδομένα</string>
+    <string name="version">εκδοχή 2.2</string>
+    <string name="unlock">Ξεκλειδώσετε για να παίξει</string>
+    <string name="watch_video">Παρακολουθήστε Βίντεο</string>
+    <string name="hide_playlist">Κρύψτε τις αυτόματες λίστες παιξίματος</string>
+    <string name="show_playlist">Προβάλετε τις αυτόματες λίστες (τραγουδιών)</string>
+    <string name="auto_playlist">Auto/nPlaylist</string>
+    <string name="first_style">Πρώτο ξεκλείδωμα</string>
+    <string name="second_style">Δεύτερο ξεκλείδωμα</string>
+    <string name="fifth_style">Πέμπτο ξεκλείδωμα</string>
+    <string name="sixth_style">Έκτο ξεκλείδωμα</string>
+    <string name="dark_theme">Σκίαση θέματος</string>
+    <string name="dark_theme_summary">Εφαρμόστε την λειτουργία της σκίασης θέματος σε πραγματικό χρόνο</string>
+    <string name="accent_color">Τονίστε χρώμα</string>
+    <string name="accent_color_summary">Επιλέξτε χρώμα τονιισμού θέματος</string>
+    <string name="gestures">Χειροκίνητα</string>
+    <string name="switching_tracks_by_gestures">Αναζήτηση με πάτημα κουμπιών χειροκίνητα</string>
+    <string name="now_playing_selector">Επιλέξτε Μουσική από 6 εκπληκτικά στυλ</string>
+
+    <string name="play">Παίξιμο</string>
+    <string name="add_to_playlist">Προσθέστε στην λίστα παιξίματος</string>
+    <string name="go_to_album">Πηγαίνετε στο άλμπουμ</string>
+    <string name="go_to_artist">Ανατρέξτε στον καλλιτέχνη</string>
+    <string name="add_to_queue">Προσθέστε στην σειρά</string>
+    <string name="play_next">Επόμενο</string>
+    <string name="new_playlist">Νέα λίστα τραγουδιών</string>
+    <string name="player_style_ad">Το σύστημα θα ξεκλειδωθεί μόνιμα μετά την συμμετοχή σας σε μια Διαφ. (Ad)</string>
+    <string name="show_ad">Προβολή Διαφήμισης</string>
+    <string name="translations">Μεταφράσεις</string>
+    <string name="translated_by">Μεταφράστηκε από..</string>
+
+    <string name="count_song"><xliff:g id="count">%d</xliff:g> τραγούδι</string>
+    <string name="count_songs"><xliff:g id="count">%d</xliff:g> τραγούδια</string>
+    <string name="count_album"><xliff:g id="count">%d</xliff:g> άλμπουμ</string>
+    <string name="count_albums"><xliff:g id="count">%d</xliff:g> άλμπουμ</string>
+    <string name="count_artist"><xliff:g id="count">%d</xliff:g> καλλιτέχνης</string>
+    <string name="count_artists"><xliff:g id="count">%d</xliff:g> καλλιτέχνες</string>
+
+    <string name="number_song_add_queue"><xliff:g example="1" id="number">%d</xliff:g> τραγούδι που προστέθηκε στη λίστα.</string>
+    <string name="number_songs_add_queue"><xliff:g example="1" id="number">%d</xliff:g> τραγούδια που προστέθηκαν στη λίστα.</string>
+    <string name="number_song_add_playlist"><xliff:g example="1" id="number">%d</xliff:g> τραγούδι που προστέθηκε στη λίστα μουσικής.</string>
+    <string name="number_songs_add_playlist"><xliff:g example="1" id="number">%d</xliff:g> τραγούδια που προστέθηκαν στην λίστα μουσικής.</string>
+
+    <string name="menu_sort_by">Επιλογή από</string>
+    <string name="sort_order_entry_az">A-Z</string>
+    <string name="sort_order_entry_za">Z-A</string>
+    <string name="sort_order_entry_artist">Καλλιτέχνης</string>
+    <string name="sort_order_entry_album">Αλμπουμ</string>
+    <string name="sort_order_entry_year">Ετος</string>
+    <string name="sort_order_entry_track_number">Αριθμός Λίστας (Σειράς)</string>
+    <string name="sort_order_entry_duration">Διάρκεια</string>
+    <string name="sort_order_entry_number_of_songs">Αριθμός Τραγουδιών</string>
+    <string name="sort_order_entry_number_of_albums">Αριθμός Αλμπουμ</string>
+
+    <string name="songs">Τραγούδια</string>
+    <string name="albums">Αλμπουμ</string>
+    <string name="artists">Καλλιτέχνες (Μουσικοί)</string>
+    <string name="library">Βιβλιοθήκη</string>
+    <string name="playlists">Λίστες Παιξίματος Μουσικής</string>
+    <string name="playing_queue">Σειρά Παιξίματος Μουσικής</string>
+    <string name="now_playing">Player</string>
+    <string name="settings">Ρυθμίσεις</string>
+    <string name="about">Γύρω από</string>
+    <string name="search">Αναζήτηση</string>
+    <string name="action_shuffle_all">Ανάμειξη Όλων</string>
+    <string name="action_equalizer">Εξισωτής</string>
+    <string name="search_library">Αναζήτηση στη Βιβλιοθήκη</string>
+    <string name="choose_start_page">"Επιλέξτε την αρχική σελίδα που θα εμφανιστεί κατά την εκκίνηση. "</string>
+    <string name="start_page">"Αρχική σελίδα "</string>
+    <string name="personalisation">"Καθιστώ προσωπικόν "</string>
+    <string name="other">προσαρμογή</string>
+    <string name="summary_pause_detach">"Εναλλαγή για παύση ήχου όταν αποσυνδέεστε από την υποδοχή ήχου. "</string>
+    <string name="pause_detach">"Παύση ήχου κατά την αποσύνδεση "</string>
+    <string name="currently_selected">"Αυτή τη στιγμή επιλεγμένη "</string>
+    <string name="primary_color">"Πρωτογενές χρώμα "</string>
+    <string name="primary_color_summary">"Επιλέξτε ένα πρωτεύον χρώμα του θέματος "</string>
+    <string name="colored_status_bar">"Έγχρωμη γραμμή κατάστασης "</string>
+    <string name="colored_status_bar_summary">"Εναλλαγή χρώματος στη γραμμή κατάστασης "</string>
+    <string name="playlist_last_added">"Τελευταία προσθήκη "</string>
+    <string name="error_playing_track">Λάθος Παιξίματος τραγούδι</string>
+    <string name="last_opened">"Τελευταία Άνοιγμα "</string>
+    <string name="black">Μαύρος</string>
+    <string name="dark">σκούρος</string>
+    <string name="light">Φως</string>
+    <string name="menu_show_as_entry_grid">Πλέγμα</string>
+    <string name="menu_show_as_entry_list">Λίστα</string>
+    <string name="menu_show_as">Δες ως</string>
+    <string name="playlist_top_tracks">Τα καλύτερα τραγούδια μου</string>
+    <string name="playlist_recently_played">Πρόσφατα Played</string>
+    <string name="action_settings">Ρυθμίσεις</string>
+    <string name="accessibility_play">Παίζω</string>
+    <string name="accessibility_pause">Παύση</string>
+    <string name="accessibility_next">Επόμενο</string>
+    <string name="accessibility_prev">Προηγούμενος</string>
+    <string name="accessibility_shuffle">Ανάμιξη</string>
+    <string name="accessibility_shuffle_all">"Ανακατέψτε όλα "</string>
+    <string name="accessibility_repeat">Επαναλαμβάνω</string>
+    <string name="accessibility_repeat_all">Επαναλάβετε όλα</string>
+    <string name="accessibility_repeat_one">"Επαναλάβετε ένα "</string>
+    <string name="accessibility_queue">Ανοικτή ουρά</string>
+    <string name="accessibility_browse">"Αναζητήστε μουσική "</string>
+
+</resources>

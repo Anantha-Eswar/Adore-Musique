@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/content_root"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <com.anantheswar.adoremusique.slidinguppanel.SlidingUpPanelLayout xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:sothree="http://schemas.android.com/apk/res-auto"
+            android:id="@+id/sliding_layout"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="bottom"
+            sothree:fadeColor="@android:color/transparent"
+            sothree:panelHeight="55dp"
+            sothree:shadowHeight="5dp">
+
+            <!--Layout that lists songs-->
+            <FrameLayout
+                android:id="@+id/fragment_container"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" />
+
+            <!--Mini Player screen with 3 controls-->
+            <FrameLayout
+                android:id="@+id/quickcontrols_container"
+                android:layout_width="match_parent"
+                android:layout_height="240dp">
+
+            </FrameLayout>
+
+        </com.anantheswar.adoremusique.slidinguppanel.SlidingUpPanelLayout>
+
+
+    </FrameLayout>
+    <!--Move the below codes here if you want to enable/show Ads-->
+</RelativeLayout>
+
+    <!--<com.google.android.gms.ads.AdView xmlns:ads="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/adView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="55dp"
+        ads:adSize="BANNER"
+        ads:adUnitId="ca-app-pub-2658405203684206/4826366877" />
+
+    <Button
+        android:id="@+id/adbutton"
+        android:layout_width="11dp"
+        android:layout_height="11dp"
+        android:layout_alignEnd="@id/adView1"
+        android:layout_alignParentEnd="@id/adView1"
+        android:layout_alignParentRight="@id/adView1"
+        android:layout_alignRight="@id/adView1"
+        android:layout_alignTop="@id/adView1"
+        android:background="@drawable/close_button"
+        android:visibility="gone" />-->

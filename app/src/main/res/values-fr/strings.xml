@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string name="action_settings">Paramètres</string>
+
+    <string name="accessibility_play">Lecture</string>
+    <string name="accessibility_pause">Pause</string>
+    <string name="accessibility_next">Suivant</string>
+    <string name="accessibility_prev">Précédent</string>
+    <string name="accessibility_shuffle">Aléatoire</string>
+    <string name="accessibility_shuffle_all">Tout aléatoire</string>
+    <string name="accessibility_repeat">Répéter</string>
+    <string name="accessibility_repeat_all">Tout répéter</string>
+    <string name="accessibility_repeat_one">Répéter une chanson</string>
+    <string name="accessibility_queue">Ouvrir la file de lecture</string>
+    <string name="accessibility_browse">Parcourir la musique</string>
+
+    <string name="menu_sort_by">Trier par</string>
+    <string name="sort_order_entry_az">A-Z</string>
+    <string name="sort_order_entry_za">Z-A</string>
+    <string name="sort_order_entry_artist">Artiste</string>
+    <string name="sort_order_entry_album">Album</string>
+    <string name="sort_order_entry_year">Année</string>
+    <string name="sort_order_entry_track_number">Numéro de piste</string>
+    <string name="sort_order_entry_duration">Durée</string>
+    <string name="sort_order_entry_number_of_songs">Nombre de chansons</string>
+    <string name="sort_order_entry_number_of_albums">Nombre d\'albums</string>
+
+    <string name="error_playing_track">Erreur lors de la lecture de la piste</string>
+
+    <string name="playlist_last_added">Derniers ajouts</string>
+    <string name="playlist_recently_played">Écoutes récentes</string>
+    <string name="playlist_top_tracks">Mes pistes préférées</string>
+
+    <string name="menu_show_as">Affichage</string>
+    <string name="menu_show_as_entry_list">Liste</string>
+    <string name="menu_show_as_entry_grid">Grille</string>
+
+    <string name="light">Clair</string>
+    <string name="dark">Sombre</string>
+    <string name="black">Noir</string>
+
+    <string name="last_opened">Derniers ouverts</string>
+
+    <string name="songs">Chansons</string>
+    <string name="albums">Albums</string>
+    <string name="artists">Artistes</string>
+    <string name="library">Bibliothèque</string>
+    <string name="playlists">Listes de lecture</string>
+    <string name="playing_queue">File de lecture</string>
+    <string name="now_playing">En lecture</string>
+    <string name="settings">Paramètres</string>
+    <string name="about">À propos</string>
+    <string name="search">Rechercher</string>
+    <string name="action_shuffle_all">Tout aléatoire</string>
+    <string name="action_equalizer">Égaliseur</string>
+    <string name="search_library">Rechercher dans la bibliothèque</string>
+
+    <string name="choose_start_page">Choisir un écran d\'accueil qui sera affiché au lancement</string>
+    <string name="start_page">Écran d\'accueil</string>
+    <string name="personalisation">Personnalisation</string>
+    <string name="other">Autre</string>
+    <string name="summary_pause_detach">Mettre en pause la lecture lorsque le casque est débranché</string>
+    <string name="pause_detach">Pause au débranchement</string>
+    <string name="currently_selected">Actuellement sélectionné</string>
+
+    <string name="primary_color">Couleur principale</string>
+    <string name="primary_color_summary">Changer la couleur principale du thème</string>
+
+    <string name="colored_status_bar">Barre d\'état colorée</string>
+    <string name="colored_status_bar_summary">Activer la coloration de la barre d\'état</string>
+
+    <string name="count_song"><xliff:g id="count">%d</xliff:g> chanson</string>
+    <string name="count_songs"><xliff:g id="count">%d</xliff:g> chansons</string>
+    <string name="count_album"><xliff:g id="count">%d</xliff:g> album</string>
+    <string name="count_albums"><xliff:g id="count">%d</xliff:g> albums</string>
+    <string name="count_artist"><xliff:g id="count">%d</xliff:g> artiste</string>
+    <string name="count_artists"><xliff:g id="count">%d</xliff:g> artistes</string>
+
+    <string name="number_song_add_queue"><xliff:g example="1" id="number">%d</xliff:g> chanson ajoutée à la file de lecture.</string>
+    <string name="number_songs_add_queue"><xliff:g example="1" id="number">%d</xliff:g> chansons ajoutées à la file de lecture.</string>
+    <string name="number_song_add_playlist"><xliff:g example="1" id="number">%d</xliff:g> chanson ajoutée à la liste de lecture.</string>
+    <string name="number_songs_add_playlist"><xliff:g example="1" id="number">%d</xliff:g> chansons ajoutées à la liste de lecture.</string>
+
+    <string name="nothing_found">Aucun résultat</string>
+    <string name="folders">Naviguer</string>
+    <string name="select_storage">Chosir Stockage</string>
+
+    <string name="cancel">Annuler</string>
+
+    <string name="menu_show_lyrics">Afficher paroles</string>
+    <string name="menu_show_as_entry_default">Par défaut</string>
+    <string name="no_lyrics">Aucunes paroles trouvées</string>
+    <string name="now_playing_no_track_selected">Aucune piste sélectionnée</string>
+    <string name="lyrics_loading">Chargement...</string>
+    <string name="remove_from_playlist">Retirer de la liste de lecture</string>
+    <string name="personal_photo">Photo Adorable</string>
+    <string name="personal_photo_summary">Choisir une photo que vous aimeriez utiliser sur l\'écran principal.
+    </string>
+    <string name="select_a_photo">Chosir une photo</string>
+    <string name="sponsorship">Publicité sponsorisée</string>
+    <string name="check_permission">Adore Musique a besoin d\'accéder au stockage externe sur cet appareil.
+    </string>
+    <string name="player_style_rewarded">Ce style sera débloqué de manière permanente en récompense
+        après avoir regardé une vidéo rapide.
+    </string>
+    <string name="about_app">Adore musique est un magnifique lecteur musical utilisant le Material
+        Design avec des styles élégants, de la customisation, des fonds d\'écrans animés et le
+        contrôle de votre musique. Vous pouvez afficher une photo adorable pour que vous puissiez
+        voir la personne qui vous manque lorsque la musique est en cours de lecture! Il y a de
+        nombreuses fonctions géniales, comme la synchronisation de la photo des artistes, la reprise
+        du morceau après la fin d\'un appel, le contrôle avec les gestes et bien plus encore.
+    </string>
+    <string name="rate_app">Noter cette appli</string>
+    <string name="rewarded_failed">La vidéo récompensante n\'est pas chargée, verifiez votre connection et essayez à nouveau</string>
+    <string name="fullscreen_summary">Activer/désactiver le mode plein écran en temps-réel</string>
+    <string name="fullscreen">Plein écran</string>
+    <string name="about_contact">Contacter le développeur</string>
+    <string name="about_suggestions">Si vous trouvez le moindre bug ou la moindre erreur, or pour
+        laisser une suggestion interessante pour améliorer cette appli, veuillez me contacter par
+        Email ou sur facebook via l\'icône ci-dessous
+    </string>
+    <string name="message_everyone_summary">Contiens une collections de messages additionnés d\'une
+        fonction unique
+    </string>
+    <string name="more_apps">Plus d\'applis par le développeur</string>
+    <string name="translate_title">Aidez-moi à traduire!</string>
+    <string name="translate_summary">Aidez-moi à traduire cette application dans votre langue
+        maternelle. Si vous souhaitez traduire cette appli, contactez-moi via Facebook, j\'ajouterai
+        votre nom Adorable et votre ID dans la catégorie "traduction" de cette application.
+    </string>
+    <string name="share_app">Partager cette appli</string>
+    <string name="rate_this_app">Noter cette appli</string>
+    <string name="share_app_summary">Adore musique est un magnifique lecteur musical avec des styles
+        élégants, de la customisation, des fonds d\'écrans animés et le contrôle de votre musique.
+        Vous pouvez la télécharger sur le Play Store à l\'adresse suivante :
+        https://play.google.com/store/apps/details?id=com.anantheswar.adoremusique or download
+        directly from https://goo.gl/eoVRdz
+    </string>
+    <string name="no_email_app">Il n\'y a pas de client Email installé</string>
+    <string name="send_email">Envoyer via Email</string>
+    <string name="rate_this_app_message">Si vous aimez cette appli, notez-là 5 étoiles sur le Play
+        Store pour supporter le développeur. Cela l\'encouragera à créer plus d\'applis!
+    </string>
+    <string name="okay">OKAY</string>
+    <string name="try_this_app">Essayer cette appli!</string>
+    <string name="share_this_app_link">Partager le lien de cette appli via</string>
+    <string name="select_image">Choisir une image</string>
+    <string name="image_selected">Image sélectionnée</string>
+    <string name="please_wait">Veuillez patienter</string>
+    <string name="now_playing_style">Styles du player</string>
+    <string name="summary_xposed_trackselector">Xposed et le module XMediaNotificationTrackSelector
+        sont nécessaires. Cela permettra de jouer la file d\'attente à partir de la barre de
+        notification.
+    </string>
+    <string name="xposed_trackselector">Support de la file d\'attente dans les notifications</string>
+
+    <string name="albumart_lockscreen">Pochette de l\'album</string>
+    <string name="albumart_lockscreen_summary">Afficher pochette de l\'album sur l\'écran de
+        verrouillage
+    </string>
+
+    <string name="load_artist_album_image">Charger l\'image de l\'album de l\'artiste en ligne</string>
+    <string name="load_artist_album_image_summary">Charger l\'image de l\'album de l\'artiste lorsque
+        vous êtes connecté sur le net.
+    </string>
+
+    <string name="widget_standard">Widget sombre</string>
+    <string name="tap_to_start">Appuyer pour démarer Adore Musique</string>
+    <string name="widget_white">Widget clair</string>
+
+    <string name="share">Partager</string>
+    <string name="delete_from_device">Supprimer de votre appareil</string>
+    <string name="remove_from_queue">Retirer de la file d\'attente</string>
+    <string name="privacy_policy">Politique de confidentialité</string>
+    <string name="version">Version</string>
+    <string name="unlock">Débloquer gratuitement</string>
+    <string name="watch_video">Regarder la vidéo</string>
+    <string name="hide_playlist">Masquer les listes de lecture automatiques</string>
+    <string name="show_playlist">Afficher les listes de lecture automatiques</string>
+    <string name="auto_playlist">Automatique\nPlaylist</string>
+    <string name="first_style">Premier style débloqué</string>
+    <string name="second_style">Deuxième style débloqué</string>
+    <string name="fifth_style">Cinquième style débloqué</string>
+    <string name="sixth_style">Sixième style débloqué</string>
+    <string name="dark_theme">Thème sombre</string>
+    <string name="dark_theme_summary">Appliquer le thème sombre en temps-réel.</string>
+    <string name="accent_color">Couleur d\'accentuation</string>
+    <string name="accent_color_summary">Choisir une couleur d\'accentuation.</string>
+    <string name="gestures">Gestes</string>
+    <string name="switching_tracks_by_gestures">Changer de morceau avec les gestes</string>
+    <string name="now_playing_selector">Choisir un style de player parmi les 6 styles magnifiques.
+    </string>
+
+    <string name="play">Lecture</string>
+    <string name="add_to_playlist">Ajouter à la liste de lecture</string>
+    <string name="go_to_album">Voir l\'album</string>
+    <string name="go_to_artist">Voir l\'artiste</string>
+    <string name="add_to_queue">Ajouter à la file d\'attente</string>
+    <string name="play_next">Chanson suivante</string>
+    <string name="new_playlist">Nouvelle liste de lecture</string>
+    <string name="player_style_ad">Ce style sera débloqué de manière permanente après avoir regardé la publicité.
+    </string>
+    <string name="show_ad">Afficher publicités</string>
+    <string name="translations">Traductions</string>
+    <string name="translated_by">Traduit par</string>
+
+</resources>

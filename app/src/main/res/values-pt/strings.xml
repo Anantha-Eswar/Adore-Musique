@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string name="action_settings">Configurações</string>
+
+    <string name="accessibility_play">Reproduzir</string>
+    <string name="accessibility_pause">Pausar</string>
+    <string name="accessibility_next">Próxima</string>
+    <string name="accessibility_prev">Anterior</string>
+    <string name="accessibility_shuffle">Misturar</string>
+    <string name="accessibility_shuffle_all">Misturar todas</string>
+    <string name="accessibility_repeat">Repetir</string>
+    <string name="accessibility_repeat_all">Repetir todas</string>
+    <string name="accessibility_repeat_one">Repetir uma</string>
+    <string name="accessibility_queue">Abrir fila</string>
+    <string name="accessibility_browse">Procurar música</string>
+
+    <string name="menu_sort_by">Classificar por</string>
+    <string name="sort_order_entry_az">A-Z</string>
+    <string name="sort_order_entry_za">Z-A</string>
+    <string name="sort_order_entry_artist">Artista</string>
+    <string name="sort_order_entry_album">Álbum</string>
+    <string name="sort_order_entry_year">Ano</string>
+    <string name="sort_order_entry_track_number">Número da faixa</string>
+    <string name="sort_order_entry_duration">Duração</string>
+    <string name="sort_order_entry_number_of_songs">Número de mísicas</string>
+    <string name="sort_order_entry_number_of_albums">Número de álbuns</string>
+
+    <string name="error_playing_track">Erro ao reproduzir a faixa</string>
+
+    <string name="playlist_last_added">Última adicionada</string>
+    <string name="playlist_recently_played">Reproduzida recentemente</string>
+    <string name="playlist_top_tracks">Minhas faixas principais</string>
+
+    <string name="menu_show_as">Ver como</string>
+    <string name="menu_show_as_entry_list">Lista</string>
+    <string name="menu_show_as_entry_grid">Grade</string>
+    <string name="menu_show_as_entry_default">Padrão</string>
+
+    <string name="light">Claro</string>
+    <string name="dark">Escuro</string>
+    <string name="black">Preto</string>
+
+    <string name="last_opened">Última aberta</string>
+
+    <string name="songs">Músicas</string>
+    <string name="albums">Álbuns</string>
+    <string name="artists">Artistas</string>
+    <string name="library">Biblioteca</string>
+    <string name="playlists">Listas de reprodução</string>
+    <string name="playing_queue">Fila em reprodução</string>
+    <string name="now_playing">Artista</string>
+    <string name="now_playing_style">Estilos do artista</string>
+    <string name="settings">Configurações</string>
+    <string name="about">Sobre</string>
+    <string name="search">Procurar</string>
+    <string name="action_shuffle_all">Misturar todas</string>
+    <string name="action_equalizer">Equalizador</string>
+    <string name="search_library">Procurar biblioteca</string>
+
+    <string name="choose_start_page">Escolha a página inicial a ser exibida.</string>
+    <string name="start_page">Página inicial</string>
+    <string name="now_playing_selector">Selecione um estilo de artista de 6 estilos incríveis.</string>
+    <string name="personalisation">Personalizar</string>
+    <string name="other">Customizar</string>
+    <string name="summary_pause_detach">Alternar para pausar o áudio quando você se desconectar do conector de áudio.</string>
+    <string name="pause_detach">Pausar áudio na desconexão</string>
+    <string name="summary_xposed_trackselector">Exige que os módulos Xposed e XMediaNotificationTrackSelector Xposed sejam instalados. Isso fornecerá acesso à fila de reprodução a partir da própria barra de notificação.</string>
+    <string name="xposed_trackselector">Suporte da fila de reprodução na notificação</string>
+    <string name="currently_selected">Selecionada atualmente</string>
+
+    <string name="dark_theme">Tema escuro</string>
+    <string name="dark_theme_summary">Aplicar o tema escuro em tempo real</string>
+
+    <string name="primary_color">Cor primária</string>
+    <string name="primary_color_summary">Selecionar uma cor primária para o tema</string>
+
+    <string name="accent_color">Cor de destaque</string>
+    <string name="accent_color_summary">Selecione uma cor de destaque para o tema</string>
+
+    <string name="colored_status_bar">Barra de status colorida</string>
+    <string name="colored_status_bar_summary">Alternar cor da barra de status</string>
+
+    <string name="albumart_lockscreen">Arte do álbum</string>
+    <string name="albumart_lockscreen_summary">Mostrar arte do álbum na tela de bloqueio.</string>
+
+    <string name="load_artist_album_image">Carregar imagens de artista online</string>
+    <string name="load_artist_album_image_summary">Carrega automaticamente imagens de artistas quando você estiver conectado à internet.</string>
+
+    <string name="gestures">Gestos</string>
+    <string name="switching_tracks_by_gestures">Mudar de faixa usando gestos</string>
+    <string name="widget_standard">Dispositivo escuro</string>
+    <string name="tap_to_start">Toque para iniciar o Adore Musique</string>
+    <string name="widget_white">Dispositivo claro</string>
+
+    <string name="count_song"><xliff:g id="count">%d</xliff:g>Música</string>
+    <string name="count_songs"><xliff:g id="count">%d</xliff:g>Músicas</string>
+    <string name="count_album"><xliff:g id="count">%d</xliff:g>Álbum</string>
+    <string name="count_albums"><xliff:g id="count">%d</xliff:g>Álbuns</string>
+    <string name="count_artist"><xliff:g id="count">%d</xliff:g>artista</string>
+    <string name="count_artists"><xliff:g id="count">%d</xliff:g>artistas</string>
+
+    <string name="number_song_add_queue"><xliff:g example="1" id="number">%d</xliff:g>música adicionada à fila</string>
+    <string name="number_songs_add_queue"><xliff:g example="1" id="number">%d</xliff:g>músicas adicionadas à fila</string>
+    <string name="number_song_add_playlist"><xliff:g example="1" id="number">%d</xliff:g>música adicionada à lista de reprodução</string>
+    <string name="number_songs_add_playlist"><xliff:g example="1" id="number">%d</xliff:g>músicas adicionadas à lista de reprodução</string>
+
+    <string name="play">Reproduzir</string>
+    <string name="add_to_playlist">Adicionar á lista de reprodução</string>
+    <string name="go_to_album">Ir para o álbum</string>
+    <string name="go_to_artist">Ir para o artista</string>
+    <string name="add_to_queue">Adicionar á fila</string>
+    <string name="play_next">Próxima a tocar</string>
+    <string name="new_playlist">Nova lista de reprodução</string>
+    <string name="share">Compartilhar</string>
+    <string name="delete_from_device">Excluir do aparelho</string>
+    <string name="remove_from_queue">Remover da fila</string>
+
+    <string name="nothing_found">Nada encontrado</string>
+    <string name="folders">Procurar arquivos</string>
+    <string name="select_storage">Selecionar armazenamento</string>
+
+    <string name="no_email_app">Não há clientes de e-mail instalados.</string>
+    <string name="send_email">Enviar e-mail via</string>
+    <string name="rate_this_app_message">Se você gostar deste aplicativo, classifique-o com 5 estrelas na Play Store para apoiar o desenvolvedor. Isso me ajudará a criar mais aplicativos.</string>
+    <string name="okay">OK</string>
+    <string name="try_this_app">Teste este aplicativo!</string>
+    <string name="share_this_app_link">Compartilhe o link deste aplicativo via</string>
+    <string name="select_image">Selecionar uma imagem</string>
+    <string name="image_selected">Imagem selecionada</string>
+    <string name="please_wait">Por favor, espere carregar</string>
+
+    <string name="cancel">Cancelar</string>
+
+    <string name="menu_show_lyrics">Mostrar letra</string>
+    <string name="no_lyrics">Nenhuma letra encontrada</string>
+    <string name="now_playing_no_track_selected">Nenhuma faixa atual selecionada</string>
+    <string name="lyrics_loading">Carregando...</string>
+    <string name="remove_from_playlist">Remover da lista de reprodução</string>
+    <string name="personal_photo">Foto preferida</string>
+    <string name="personal_photo_summary">Selecione uma foto que você gostaria de exibir na tela principal</string>
+    <string name="select_a_photo">Selecione uma foto de</string>
+    <string name="sponsorship">Anúncios patrocinados</string>
+    <string name="check_permission">O Adore Musique precisará ler o armazenamento externo para exibir músicas neste dispositivo</string>
+    <string name="player_style_rewarded">Esse estilo será desbloqueado permanentemente depois que você assistir a um vídeo rápido e premiado</string>
+    <string name="about_app">O Adore Musique é um belo reprodutor de música criado usando design material com estilos atraentes, personalizações, animações de fundo e controles de música. Ele permite que você mantenha uma foto Favorita, assim, quando você sentir falta de alguém enquanto ouve uma música, você veja e sinta! Ele tem recursos legais como fotos de artistas sincronizadas on-line, retomada automática após chamada, gestos e muito mais.</string>
+    <string name="rate_app">Avaliar este aplicativo</string>
+    <string name="rewarded_failed">O vídeo premiado não está carregado, verifique sua conexão com a Internet e/ou tente novamente</string>
+    <string name="fullscreen_summary">Ativar ou desativar a tela cheia em tempo real</string>
+    <string name="fullscreen">Tela cheia</string>
+    <string name="about_contact">Entrar em contato com o desenvolvedor:</string>
+    <string name="about_suggestions">Se você encontrar algum erro ou bug ou para enviar suas sugestões valiosas para a melhoria deste aplicativo, por favor, entre em contato via e-mail ou Facebook tocando no ícone abaixo</string>
+    <string name="message_everyone_summary">Contém coleta de mensagens carregadas com um recurso exclusivo</string>
+    <string name="more_apps">Mais aplicativos pelo desenvolvedor:</string>
+    <string name="translate_title">Ajude-me com a tradução:</string>
+    <string name="translate_summary">Ajude-me a traduzir o aplicativo para o seu idioma local. Se desejar traduzir este aplicativo, entre em contato comigo via Facebook. Eu vou colocar o seu nome Favorito e ID na seção de tradução deste aplicativo.</string>
+    <string name="share_app">Compartilhar este aplicativo</string>
+    <string name="rate_this_app">Avaliar este aplicativo</string>
+    <string name="share_app_summary">Adore Musique, um reprodutor de música com estilos atraentes, personalizações, animações de fundo e controles de música. Baixe agora da  Play Store https://play.google.com/store/apps/details?id=com.anantheswar.adoremusique ou faça o download diretamente de https://goo.gl/eoVRdz</string>
+    <string name="privacy_policy">Política de Privacidade</string>
+    <string name="version">versão 2.2</string>
+    <string name="unlock">Desbloquear gratuitamente</string>
+    <string name="watch_video">Assista vídeo</string>
+    <string name="hide_playlist">Ocultar listas de reprodução automáticas</string>
+    <string name="show_playlist">mostrar listas de reprodução automáticas</string>
+    <string name="auto_playlist">automático\nlista de reprodução</string>
+    <string name="first_style">Primeiro estilo desbloqueado</string>
+    <string name="second_style">Segundo estilo desbloqueado</string>
+    <string name="fifth_style">Quinto estilo desbloqueado</string>
+    <string name="sixth_style">Sexto estilo desbloqueado</string>
+    <string name="player_style_ad">Esse estilo será desbloqueado permanentemente depois que você participar de um anúncio.</string>
+    <string name="show_ad">mostrar anúncio</string>
+    <string name="translations">Traduções</string>
+    <string name="translated_by">Traduzido por</string>
+
+
+</resources>

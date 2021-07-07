@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string name="action_settings">அமைப்புகள்</string>
+    <string name="accessibility_play">தொடங்கு</string>
+    <string name="accessibility_pause">இடைநிறுத்தம்</string>
+    <string name="accessibility_next">அடுத்து</string>
+    <string name="accessibility_prev">முந்தியது</string>
+    <string name="accessibility_shuffle">கலக்கு</string>
+    <string name="accessibility_shuffle_all">முழுவதும் கலக்கு</string>
+    <string name="accessibility_repeat">திரும்பச்செய்</string>
+    <string name="accessibility_repeat_all">முழுவதும் திரும்பச்செய்</string>
+    <string name="accessibility_repeat_one">ஒன்றை திரும்பச்செய்</string>
+    <string name="accessibility_queue">காட்டு வரிசையை</string>
+    <string name="accessibility_browse">உலவு இசை</string>
+    <string name="menu_sort_by">வரிசைப்படுத்து</string>
+    <string name="sort_order_entry_az">A முதல் Z வரை</string>
+    <string name="sort_order_entry_za">Z முதல் A வரை</string>
+    <string name="sort_order_entry_artist">கலைஞர்</string>
+    <string name="sort_order_entry_album">ஆல்பம்</string>
+    <string name="sort_order_entry_year">ஆண்டு</string>
+    <string name="sort_order_entry_track_number">பாதை எண்</string>
+    <string name="sort_order_entry_duration">காலம்</string>
+    <string name="sort_order_entry_number_of_songs">பாடல்களின் எண்ணிக்கை</string>
+    <string name="sort_order_entry_number_of_albums">ஆல்பங்களின் எண்ணிக்கை</string>
+    <string name="error_playing_track">பாதை இயக்குவதில் பிழை</string>
+    <string name="playlist_last_added">கடைசியாக சேர்க்கப்பட்டது</string>
+    <string name="playlist_recently_played">சமீபத்தில் பாடியது</string>
+    <string name="playlist_top_tracks">எனது சிறந்த பாதைகள்</string>
+    <string name="menu_show_as">எப்படி காட்ட</string>
+    <string name="menu_show_as_entry_list">பட்டியல்</string>
+    <string name="menu_show_as_entry_grid">கட்டம்</string>
+    <string name="light">ஒளி</string>
+    <string name="dark">இருள்</string>
+    <string name="black">கருப்பு</string>
+    <string name="last_opened">கடைசியாக திறக்கப்பட்டது</string>
+    <string name="songs">பாடல்கள்</string>
+    <string name="albums">ஆல்பங்கள்</string>
+    <string name="artists">கலைஞர்கள்</string>
+    <string name="library">இசை பட்டியல்</string>
+    <string name="playlists">பாடும் பட்டியல்</string>
+    <string name="playing_queue">பாடும் வரிசை</string>
+    <string name="now_playing">பாடுகின்ற திரை</string>
+    <string name="settings">அமைப்புகள்</string>
+    <string name="about">இதனைப் பற்றி</string>
+    <string name="search">தேடல்</string>
+    <string name="action_shuffle_all">முழுவதும் கலக்கு</string>
+    <string name="action_equalizer">சமனாக்கி</string>
+    <string name="search_library">தேடு இசை பட்டியளை</string>
+    <string name="choose_start_page">துவக்கத்தில் காண்பிக்கப்படும் தொடக்கப் பக்கத்தைத் தேர்வுசெய்யவும்.</string>
+    <string name="start_page">தொடக்கப் பக்கம்</string>
+    <string name="now_playing_selector">6 அற்புதமான பாடும் திரைகளில் இருந்து தேர்ந்தெடுக்கவும்.</string>
+    <string name="other">தனிப்பயனாக்குக</string>
+    <string name="personalisation">தனிப்படுத்தல்</string>
+    <string name="summary_pause_detach">ஆடியோ ஜாக் மூலம் துண்டிக்கும்போது இசையை இடைநிறுத்துவதற்கு மாறுக.</string>
+    <string name="pause_detach">துண்டிக்கப்பட்ட இசையை இடைநிறுத்து</string>
+    <string name="currently_selected">தற்போது தேர்ந்தெடுக்கப்பட்டது</string>
+    <string name="dark_theme">இருள் தீம்</string>
+    <string name="dark_theme_summary">நிகழ்நேரத்தில் இருள் தீம் வைக்க.</string>
+    <string name="primary_color">முதன்மை வண்ணம்</string>
+    <string name="primary_color_summary">ஒரு முதன்மை தீம் வண்ணத்தைத் தேர்ந்தெடுக்கவும்</string>
+    <string name="accent_color">இரண்டாம் வண்ணம்</string>
+    <string name="accent_color_summary">இரண்டாம்நிலை வண்ணத்தைத் தேர்ந்தெடுக்கவும்.</string>
+    <string name="colored_status_bar">வண்ண நிலைப் பட்டை</string>
+    <string name="colored_status_bar_summary">நிலை பட்டியில் வண்ணம் மாற்று</string>
+    <string name="gestures">சைகைகள்</string>
+    <string name="switching_tracks_by_gestures">சைகைகள் பயன்படுத்தி பாதைகளை மாற்று.</string>
+    <string name="count_song"><xliff:g id="count">%d</xliff:g> பாடல்</string>
+    <string name="count_songs"><xliff:g id="count">%d</xliff:g> பாடல்கள்</string>
+    <string name="count_album"><xliff:g id="count">%d</xliff:g> ஆல்பம்</string>
+    <string name="count_albums"><xliff:g id="count">%d</xliff:g> ஆல்பங்கள்</string>
+    <string name="count_artist"><xliff:g id="count">%d</xliff:g> கலைஞர்</string>
+    <string name="count_artists"><xliff:g id="count">%d</xliff:g> கலைஞர்கள்</string>
+    <string name="number_song_add_queue"><xliff:g example="1" id="number">%d</xliff:g> song added to the queue.</string>
+    <string name="number_songs_add_queue"><xliff:g example="1" id="number">%d</xliff:g> பாடல்கள் வரிசையில் சேர்க்கப்பட்டது.</string>
+    <string name="number_song_add_playlist"><xliff:g example="1" id="number">%d</xliff:g> பாடல் பாடும் பட்டியலில் சேர்க்கப்பட்டது.</string>
+    <string name="number_songs_add_playlist"><xliff:g example="1" id="number">%d</xliff:g> பாடல்கள் பாடும் பட்டியலில் சேர்க்கப்பட்டது.</string>
+    <string name="play">தொடங்கு</string>
+    <string name="add_to_playlist">பாடும் பட்டியலில் சேர்</string>
+    <string name="go_to_album">ஆல்பத்திற்கு செல்</string>
+    <string name="go_to_artist">கலைஞருக்குச் செல்</string>
+    <string name="add_to_queue">வரிசையில் சேர்</string>
+    <string name="play_next">அடுத்தது தொடங்கு</string>
+    <string name="new_playlist">புதிய பாடும் பட்டியலில்</string>
+    <string name="nothing_found">எதுவும் கிடைக்கவில்லை</string>
+    <string name="folders">கோப்புகளை உலாவுக</string>
+    <string name="select_storage">சேமிப்பிடத்தை தேர்ந்தெடுக்கவும்</string>
+    <string name="cancel">ரத்து</string>
+    <string name="menu_show_lyrics">பாடல் வரிகள் காட்டு</string>
+    <string name="menu_show_as_entry_default">இயல்புநிலை</string>
+    <string name="no_lyrics">பாடல் வரிகள் எதுவுமில்லை</string>
+    <string name="now_playing_no_track_selected">தற்போதைய இசையை தேர்ந்தெடுக்கப்படவில்லை</string>
+    <string name="lyrics_loading">ஏற்றுகிறது ...</string>
+    <string name="remove_from_playlist">பாடும் பட்டியலிலிருந்து அகற்று</string>
+    <string name="personal_photo">அபிமான புகைப்படம்</string>
+    <string name="personal_photo_summary">முதன்மை திரையில் காட்ட விரும்பும் ஒரு புகைப்படத்தைத் தேர்ந்தெடுக்கவும்.</string>
+    <string name="select_a_photo">ஒரு புகைப்படத்தைத் தேர்ந்தெடுக்கவும்</string>
+    <string name="sponsorship">ஆதரவாளர் விளம்பரங்கள்</string>
+    <string name="check_permission">இந்த சாதனத்தில் பாடல்களைக் காண்பிக்க அட்சோர் மியூசிக் வெளிப்புற சேமிப்பகத்தைப் படிக்க வேண்டும்.</string>
+    <string name="player_style_rewarded">"நீங்கள் விரைவான வீடியோவைப் பார்த்த பிறகு இந்த பாணி நிரந்தரமாக திறக்கப்படும். "</string>
+    <string name="about_app">Adore Musique மெட்டீரியல் டிசைன் பயன்படுத்தி வடிவமைக்கப்பட்ட ஒரு அழகான மியூசிக் பிளேயர் இதில் கவர்ச்சிகரமான பிளேயர்கள், தனிப்பயனாக்கங்கள், பின்னணி அனிமேஷன் மற்றும் இசை கட்டுப்பாடுகள் உள்ளது.  இதில் தானாக கலைஞர் புகைப்படங்கள் ஒத்திசைத்தல், தொலைபேசி அழைப்புக்குப் பிறகு தானாக தொடங்குதல், சைகைகள் பயன்படுத்தி கட்டுப்படுத்துதல் மற்றும் இன்னும் பல உள்ளது.</string>
+    <string name="rate_app">மென்பொருளை மதிப்பிடுக</string>
+    <string name="rewarded_failed">வழங்கப்பட்ட காணொளியை பதிவிறக்க முடியவில்லை, உங்கள் இணைய இணைப்பு சரிபார்க்கவும் மற்றும் / அல்லது மீண்டும் முயற்சிக்கவும்.</string>
+    <string name="fullscreen_summary">நிகழ்நேரத்தில் முழுத்திரை இயக்கு / முடக்கு.</string>
+    <string name="fullscreen">முழு திரை</string>
+    <string name="about_contact">இதை உருவாக்குபவரை தொடர்புகொள்ள:</string>
+    <string name="about_suggestions">நீங்கள் இதில் பிழை கண்டறிந்தால் அல்லது இந்த மென்பொருள் பயன்பாட்டை முன்னேற்ற விரும்பினால், உங்கள் மதிப்புமிக்க பரிந்துரைகளை எனக்கு மின்னஞ்சல் அல்லது பேஸ்புக் வழியாக தெரிவிக்கலாம்.</string>
+    <string name="message_everyone_summary">தனித்துவமான அம்சத்துடன் ஏற்றப்பட்ட செய்திகளின் தொகுப்பைக் கொண்டிருக்கிறது.</string>
+    <string name="more_apps">உருவாக்கியவரின் கூடுதல் மென்பொருட்கள்:</string>
+    <string name="translate_title">மொழிபெயர்ப்பு மூலம் எனக்கு உதவ செய்க:</string>
+    <string name="translate_summary">உங்கள் உள்ளூர் மொழியில் மொழிபெயர்ப்பதில் எனக்கு உதவுங்கள். இந்த மென்பொருளை மொழிபெயர்க்க விரும்பினால், பேஸ்புக் மூலம் என்னை தொடர்பு கொள்ளவும். இந்த மென்பொருளிள் உங்கள் அபிமான பெயர் மற்றும் அடையாளத்தை நான் சேர்க்கிறேன்.</string>
+    <string name="share_app">இந்த மென்பொருளைப் பகிரவும்</string>
+    <string name="rate_this_app">இந்த மென்பொருளை மதிப்பிடுக</string>
+    <string name="share_app_summary">Adore Musique மெட்டீரியல் டிசைன் பயன்படுத்தி வடிவமைக்கப்பட்ட ஒரு அழகான மியூசிக் பிளேயர் இதில் கவர்ச்சிகரமான பிளேயர்கள், தனிப்பயனாக்கங்கள், பின்னணி அனிமேஷன் மற்றும் இசை கட்டுப்பாடுகள் உள்ளது. Play store இல் இருந்து இப்போது பதிவிறக்கவும் https://play.google.com/store/apps/details?id=com.anantheswar.adoremusique அல்லது https://goo.gl/eoVRdz இருந்து நேரடியாக பதிவிறக்கவும்.</string>
+    <string name="no_email_app">மின்னஞ்சல் மென்பொருட்கள் நிறுவப்படவில்லை.</string>
+    <string name="send_email">மின்னஞ்சல் அனுப்பும் வழி</string>
+    <string name="rate_this_app_message">இந்த மென்பொருளை நீங்கள் விரும்பினால், உருவாக்கியவருக்கு ஆதரவாக Play Store இல் 5 நட்சத்திரங்களை மதிப்பிடுங்கள். இது போன்ற பல மென்பொருள்களை உருவாக்க எனக்கு உதவும்.</string>
+    <string name="okay">சரி</string>
+    <string name="try_this_app">இந்த மென்பொருளை முயற்சிக்கவும்!</string>
+    <string name="share_this_app_link">இந்த மென்பொருள் இணைப்பைப் பகிர்ந்து கொள்ளும் வழி</string>
+    <string name="select_image">ஒரு படத்தைத் தேர்ந்தெடுக்கவும்</string>
+    <string name="image_selected">படம் தேர்ந்தெடுக்கப்பட்டது</string>
+    <string name="please_wait">ஏற்றுவதற்கு காத்திருக்கவும்</string>
+    <string name="now_playing_style">பாடும் திரைகள்</string>
+    <string name="summary_xposed_trackselector">Xposed மற்றும் XMediaNotificationTrackSelector Xposed தொகுதி நிறுவப்பட வேண்டும். இது அறிவிப்பு பட்டியில் இருந்து வரிசை வரிசையாக்க அணுகலை வழங்கும்.</string>
+    <string name="xposed_trackselector">அறிவிப்பில் பாடல்கள் வரிசையாக்க காண்பிக்க</string>
+    <string name="albumart_lockscreen">ஆல்பம் கலை</string>
+    <string name="albumart_lockscreen_summary">பூட்டுத் திரையில் ஆல்பம் கலை காட்டு.</string>
+    <string name="load_artist_album_image">கலைஞர் படங்களை ஆன்லைனில் பதிவிறக்கம்</string>
+    <string name="load_artist_album_image_summary">நீங்கள் இணையத்துடன் இணைக்கப்படும்போது, கலைஞர் படங்களை தானாக ஏற்றும்.</string>
+    <string name="widget_standard">இருண்ட விட்ஜெட்</string>
+    <string name="tap_to_start">Adore Musique ஐத் தொடங்க தட்டவும்</string>
+    <string name="widget_white">ஒளி விட்ஜெட்</string>
+    <string name="share">பகிர்</string>
+    <string name="delete_from_device">சாதனத்திலிருந்து நீக்கு</string>
+    <string name="remove_from_queue">வரிசையில் இருந்து அகற்று</string>
+    <string name="privacy_policy">தனியுரிமை கொள்கை</string>
+    <string name="version">பதிப்பு 2.2</string>
+    <string name="unlock">இலவசமாக திறக்க</string>
+    <string name="watch_video">காணொளி பார்ப்போம்</string>
+    <string name="hide_playlist">இயல்புநிலை பட்டியலை மறை</string>
+    <string name="show_playlist">இயல்புநிலை பட்டியலை காட்டு</string>
+    <string name="auto_playlist">இயல்புநிலை\nபாடும் பட்டியல்</string>
+    <string name="first_style">முதல் பாடும் திரை திறக்கப்பட்டது</string>
+    <string name="second_style">இரண்டாவது பாடும் திரை திறக்கப்பட்டது</string>
+    <string name="fifth_style">ஐந்தாவது பாடும் திரை திறக்கப்பட்டது</string>
+    <string name="sixth_style">ஆறாவது பாடும் திரை திறக்கப்பட்டது</string>
+    <string name="player_style_ad">நீங்கள் விளம்பரத்தில் பங்கேற்ற பிறகு இந்த பாணி நிரந்தரமாக திறக்கப்படும்.</string>
+    <string name="show_ad">விளம்பரத்தை காட்டு</string>
+    <string name="translations">மொழிபெயர்ப்பு</string>
+    <string name="translated_by">மொழிபெயர்த்தது</string>
+
+</resources>
